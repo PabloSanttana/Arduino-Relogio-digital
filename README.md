@@ -28,11 +28,13 @@ Curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte 
     <li>1 Decodificador de 7 segmentos </li>
     <li>6 Display de 7 segmentos, Horas Minutos segundos</li>
     <li>2 Arduino Uno</li>
-   
 </ul>
 
+## Extra Som de Alarme
+- [x] Marcha imperial  (Darth Vader)
+
 ### Imagem Projeto
-![layoutGif](https://github.com/PabloSanttana/Arduino-Portao-eletronico/blob/main/image.png)
+![layoutGif](https://github.com/PabloSanttana/Arduino-Relogio-digital/blob/main/image.png)
 
 ### Link para ver em funcionamento
 
