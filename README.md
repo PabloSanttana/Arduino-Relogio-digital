@@ -1,5 +1,4 @@
 # Arduino-Relogio-digital
-# Arduino-Portao-eletronico
 Projeto desenvolvido por <strong> Guilherme Pablo De Santana Maciel </strong> na disciplina de Sistema Digitais me C++
 
 Curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN).
