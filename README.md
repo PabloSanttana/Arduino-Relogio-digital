@@ -38,4 +38,4 @@ Curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte 
 
 ### Link para ver em funcionamento
 
-- [Projeto](https://www.tinkercad.com/things/8MJg4DgHGCb?sharecode=d3PINMfuyf5pXPGWMJ69WbOUoqAVB3ZO3KhtvqMmT3o)      
+- [Projeto](https://www.tinkercad.com/things/8YJkhYezptq?sharecode=nEF_Nwfwm1WdPvQwmrcfyrt-0HkSyN3T3qefTpyxnMY)      
